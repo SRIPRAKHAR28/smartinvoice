@@ -1,0 +1,1 @@
+{"name": "smartinvoice-desktop","version": "1.0.0","description": "Desktop application for SmartInvoice","main": "main.js","dependencies": {"electron": "^latest"},"scripts": {"start": "electron .","build": "electron-builder"}}
